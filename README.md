@@ -9,6 +9,8 @@ I'm a Backend Developer with experience using NodeJS, Laravel, Lumen, Codeignite
 
 - 🔭 I’m currently working as Web Developer @Kubelajar.ID
 - 🌱 I’m currently learning Mobile Development Using Flutter
+- ⚡ Fun fact: Give me a coffee for my energy
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,4 +18,3 @@ I'm a Backend Developer with experience using NodeJS, Laravel, Lumen, Codeignite
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-- ⚡ Fun fact: Give me a coffee for my energy
