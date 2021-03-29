@@ -12,7 +12,7 @@ I'm a Backend Developer with experience using NodeJS, Laravel, Lumen, Codeignite
 - ⚡ Fun fact: Give me a coffee for my energy
 
 ### Connect with me:
-[<img align="left" alt="akhmadkhasan68 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="akhmadkhasan68 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color:#f4f4f4;"/>][twitter]
 [<img align="left" alt="akhmadkhasan68 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="akhmadkhasan68 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
