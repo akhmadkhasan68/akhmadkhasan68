@@ -24,8 +24,8 @@ I'm a Backend Developer with experience using NodeJS, Laravel, Lumen, Codeignite
 <br>
 
 ### Statistics
-<img align="left" alt="akhmadkhasan68's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akhmadkhasan68" width="100px"/>
-<img align="left" alt="akhmadkhasan68's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadkhasan68&layout=compact" width="100px"/>
+<img align="left" alt="akhmadkhasan68's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akhmadkhasan68" width="50%"/>
+<img align="left" alt="akhmadkhasan68's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadkhasan68&layout=compact" width="50%"/>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
