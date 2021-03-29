@@ -8,7 +8,7 @@
 I'm a Backend Developer with experience using NodeJS, Laravel, Lumen, Codeigniter, and Python. And currently learning about Mobile Development with Flutter.
 
 - 🔭 I’m currently working as Web Developer @Kubelajar.ID
-- 🌱 I’m currently learning Mobile Development Using Flutter
+- 🌱 I’m currently learning Mobile Development using Flutter
 - ⚡ Fun fact: Give me a coffee for my energy
 
 ### Connect with me:
