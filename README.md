@@ -1,14 +1,18 @@
 ## Hi, I'am Akhmad Khasan Abdullah 👋
-### A person who interest and passionate about Mobile Development and Web Development
+### A person who interest and passionate about Software Development
 
 <!--
 **akhmadkhasan68/akhmadkhasan68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a Backend Developer with experience using NodeJS, Laravel, Lumen, Codeigniter, and Python. And currently learning about Mobile Development with Flutter.
+Hello, I'm Hasan. An active informatics engineering student at the University of Muhammadiyah Malang and also had over ±3 years of professional experience in web development and backend services using
+several technologies such as PHP, Javascript, Python, and SQL databases. I love to learn
+and build new things in development technology, professionally, I have developed several
+applications using technologies that I am interested in learning about. Looking for a position to
+develop with a company or partner that has energy and freedom of innovation.
 
-- 🔭 I’m currently working as Web Developer @Kubelajar.ID
-- 🌱 I’m currently learning Mobile Development using Flutter
+- 🔭 I’m currently working as Full-Stack Developer @Kubelajar.ID
+- 🌱 I’m currently learning Mobile Development using Flutter & Kotlin
 - ⚡ Fun fact: Give me a coffee for my energy
 
 ### Connect with me:
