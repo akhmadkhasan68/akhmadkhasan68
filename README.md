@@ -6,7 +6,7 @@
 -->
 
 Hello, I'm Hasan. An active informatics engineering student at the University of Muhammadiyah Malang and also had over ±3 years of professional experience in web development and backend services using
-several technologies such as PHP, Javascript, Python, and SQL databases. I love to learn
+several technologies such as PHP, Javascript/Typescript, Python, and SQL databases. I love to learn
 and build new things in development technology, professionally, I have developed several
 applications using technologies that I am interested in learning about. Looking for a position to
 develop with a company or partner that has energy and freedom of innovation.
