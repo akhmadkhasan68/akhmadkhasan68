@@ -29,6 +29,9 @@ develop with a company or partner that has energy and freedom of innovation.
 
 ### Statistics
 <img align="left" alt="akhmadkhasan68's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akhmadkhasan68&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="50%"/>
+<img align="left" alt="akhmadkhasan68's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akhmadkhasan68&theme=vue-dark&hide_border=true" width="50%"/>
+<img align="left" alt="akhmadkhasan68's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akhmadkhasan68&theme=vue-dark&hide_border=true" width="50%"/>
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
