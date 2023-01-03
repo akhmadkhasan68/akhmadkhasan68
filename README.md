@@ -11,7 +11,7 @@ and build new things in development technology, professionally, I have developed
 applications using technologies that I am interested in learning about. Looking for a position to
 develop with a company or partner that has energy and freedom of innovation.
 
-- 🔭 I’m currently working as Full-Stack Developer @Kubelajar.ID
+- 🔭 I’m currently working as Backend Engineer @DOT Indonesia
 - 🌱 I’m currently learning Mobile Development using Flutter & Kotlin
 - ⚡ Fun fact: Give me a coffee for my energy
 
